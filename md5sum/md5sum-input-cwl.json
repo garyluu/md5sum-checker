@@ -1,6 +1,7 @@
 {
   "input_file": {
         "class": "File",
+        "format": "fakeFileFormat",
         "path": "md5sum.input"
     }
 }
